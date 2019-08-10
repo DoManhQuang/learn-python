@@ -1,0 +1,30 @@
+## Queue & stack
+
+## Chuyển cơ số về nhị phân
+10 => 1010
+
+2^n -1 -> kq
+1111 -> 15
+2^4 - 1 -> 15
+
+## Matrix 
+
+làm bài tập tìm đường đi.
+
+## Graph
+
+Biểu diễn danh sách kề 
+lưu trữ kiểu linklist (search google)
+
+point : 
+	1->2->5->null
+	3->6->8->null
+Queue, stack
+Arrays :
+
+	key												value
+[	[1	,2(số lượng phần tử của value)], 	|	[	[2,5],
+	[3	,2]	]								|		[6,8]	]
+
+
+tìm hiểu bignumber

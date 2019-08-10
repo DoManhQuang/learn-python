@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554107944 source:g:\programming\code python\codesignal\bai11\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

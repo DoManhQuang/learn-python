@@ -1,0 +1,28 @@
+## Learn MySQL
+
+# SQL indexing
+
+Sử dụng B-tree và hash
+
+# B-tree :
+	Tiền tố :
+	f(.) :
+		show()
+		f(left)
+		f(right)
+
+	Trung tố : Chuyển show() vào giữa
+	Hậu tố : Chuyển show() xuống cuối
+
+	Tìm hiểu về nhánh cận
+
+# Hash :
+	Tổ chức kiểu key - value
+
+	(D)		=> (D') : Định lý chuồng chim : Toán rời rạc.
+	(n+1)		(n)
+
+	Thứ tự index thì ưu tiên theo thứ tự các cột
+	VD : index(a,b,c) 
+	khi kiểm tra điều kiện 
+	ta phải kiểm tra a sau đó đến b sau đó đến c.

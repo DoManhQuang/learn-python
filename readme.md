@@ -2,6 +2,6 @@
 
 ## Lear Python basic to oop
 
-## Lear structs in python
+## Lear data structure in python
 
 ## Coding codesignal
